@@ -4,9 +4,9 @@ class Omnicomplete < Formula
   desc "A blazingly fast, native autocomplete UI for Zsh"
   homepage "https://github.com/lirimkrosa/omnicomplete"
   # This URL points to the NPM registry tarball, which gets published when you run `npm publish`
-  url "https://registry.npmjs.org/@lirimkrosa/omnicomplete/-/omnicomplete-1.0.16.tgz"
+  url "https://registry.npmjs.org/@lirimkrosa/omnicomplete/-/omnicomplete-1.0.17.tgz"
   # You will need to update the sha256 when you publish a new version
-  sha256 "c1e64de25745743c8225a29a7f8d5fc5f58e25e11c0b5994cbbcbc3d150f1dbd"
+  sha256 "379c1869d3a54a8eba6099de51725659219dce7fb18103ee635379f097cb5600"
 
   depends_on "node"
 
